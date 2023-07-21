@@ -9,7 +9,7 @@ import UIKit
 
 
 class ViewController: UIViewController, UIScrollViewDelegate {
-    private let imageHeight: CGFloat = 250
+    private let imageHeight: CGFloat = 270
 
     private lazy var scrollView: UIScrollView = {
         var scrollView = UIScrollView()
